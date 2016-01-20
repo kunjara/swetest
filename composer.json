@@ -1,0 +1,17 @@
+{
+    "name": "kunjara/swetest",
+    "description": "Command line program which computes planetary positions",
+    "keywords": [
+        "astronomy", "astrology", "planets", "ephemeris"
+    ],
+    "minimum-stability": "dev",
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Astrodienst",
+            "email": "order@astro.com",
+            "homepage": "http://www.astro.com"
+        }
+    ]
+}
